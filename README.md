@@ -16,6 +16,7 @@ const garoto = {
 
 | sistema | pra quê |
 |---|---|
+| [**Pente-fino do Garoto;**](https://github.com/garotodoprograma404/pente-fino) | recebeu um projeto pra abrir (teste técnico, repo de desconhecido)? ele diz em português o que a pasta faria sozinha no seu computador, só lendo, sem executar nada. Python puro, nada pra instalar |
 | [**Bolha do Feed;**](https://github.com/garotodoprograma404/bolha-do-feed) | um algoritmo de recomendação de brinquedo pra ver uma bolha nascer de uma regra só: curtiu? mostra mais. Python puro, nada pra instalar |
 | [**Audita Aí;**](https://github.com/garotodoprograma404/audita-ai) | confere você mesmo se a soma dos boletins de urna bate com o resultado oficial do TSE. Python puro, nada pra instalar |
 
